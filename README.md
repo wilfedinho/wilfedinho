@@ -1,5 +1,33 @@
 # 💫 About Me:
-👋 ¡Bienvenidos!<br><br>Soy William Cárdenas y a continuación les comparto una breve introducción sobre mí:<br><br>🎓 Analista en Sistemas Informáticos, apasionado por el desarrollo de software y el diseño de soluciones bien estructuradas.<br><br>💻 Me especializo en el desarrollo de aplicaciones con C# y .NET, trabajando principalmente con arquitecturas en capas, bases de datos relacionales y buenas prácticas de diseño.<br><br>🧠 Disfruto entender el *por qué* detrás de cada decisión técnica, optimizar procesos y construir sistemas mantenibles y escalables.<br><br>🌱 Actualmente sigo profundizando en desarrollo backend, bases de datos y tecnologías web, siempre con ganas de aprender algo nuevo.<br><br>🤝 Me interesa colaborar en proyectos donde se valore el trabajo en equipo, el aprendizaje constante y la calidad del código.<br>
+
+👋 Welcome!<br><br>
+I'm William Cárdenas, and here’s a brief introduction about me:<br><br>
+
+🎓 Systems Analyst, passionate about software development and designing well-structured solutions.<br><br>
+
+💻 I specialize in building applications with C# and .NET, mainly working with layered architectures, relational databases, and good design practices.<br><br>
+
+🧠 I enjoy understanding the *why* behind every technical decision, optimizing processes, and building maintainable and scalable systems.<br><br>
+
+🌱 I’m currently deepening my knowledge in backend development, databases, and web technologies, always eager to learn something new.<br><br>
+
+🤝 I’m interested in collaborating on projects where teamwork, continuous learning, and code quality are valued.<br><br>
+
+---
+
+👋 ¡Bienvenidos!<br><br>
+Soy William Cárdenas y a continuación les comparto una breve introducción sobre mí:<br><br>
+
+🎓 Analista en Sistemas Informáticos, apasionado por el desarrollo de software y el diseño de soluciones bien estructuradas.<br><br>
+
+💻 Me especializo en el desarrollo de aplicaciones con C# y .NET, trabajando principalmente con arquitecturas en capas, bases de datos relacionales y buenas prácticas de diseño.<br><br>
+
+🧠 Disfruto entender el *por qué* detrás de cada decisión técnica, optimizar procesos y construir sistemas mantenibles y escalables.<br><br>
+
+🌱 Actualmente sigo profundizando en desarrollo backend, bases de datos y tecnologías web, siempre con ganas de aprender algo nuevo.<br><br>
+
+🤝 Me interesa colaborar en proyectos donde se valore el trabajo en equipo, el aprendizaje constante y la calidad del código.<br>
+
 
 
 ## 🌐 Socials:
